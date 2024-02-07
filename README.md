@@ -12,16 +12,16 @@ The scripts folder is divided into scripts used to develop the project in the R 
  
 The first stage contains 3 scripts written in R 3.3.1, ordered in the development of the research project. 
 
-Calculation of physical-chemical properties based on the peptide sequence.R 
+-Calculation of physical-chemical properties based on the peptide sequence.R 
 
-Statistical analysis of the comparison of distributions of physical-chemical properties between the MDPs and MPPs groups.R 
+-Statistical analysis of the comparison of distributions of physical-chemical properties between the MDPs and MPPs groups.R 
 
-Multicollinearity and reduction of redundant information.R 
+-Multicollinearity and reduction of redundant information.R 
 
 The second stage contains 3 scripts written in Python 3.6+ 
 
-Calculator of Descriptors (modlamp) from peptide primary sequences.ipynb   
+-Calculator of Descriptors (modlamp) from peptide primary sequences.ipynb   
 
-Classification binary models on datasets with 49 descriptors.ipynb   
+-Classification binary models on datasets with 49 descriptors.ipynb   
 
 Classification multilabel models on datasets with 56 descriptors.ipynb  
