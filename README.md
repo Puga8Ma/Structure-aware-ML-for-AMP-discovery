@@ -5,10 +5,10 @@ This repository is divided into data, descriptors, results, and scripts used for
 
 The data carpet includes all the fasta files with the sequences collected from the databases (DBAASP, APD3, PDBe, CPPsite 2.0). 
 
-The results folder includes the raw data and clean datasets with the physicochemical properties derived from the peptide sequences, which were used to train the binary and ternary models, as well as the external validation data. the subsets into which the original dataset was divided along with their physicochemical properties. 
+The results carpet includes the raw data and clean datasets with the physicochemical properties derived from the peptide sequences, which were used to train the binary and ternary models, as well as the external validation data. the subsets into which the original dataset was divided along with their physicochemical properties. 
 The prediction results for each binary, ternary, and subsets model. 
 
-The scripts folder is divided into scripts used to develop the project in the R and Python programming languages. 
+The scripts carpet is divided into scripts used to develop the project in the R and Python programming languages. 
  
 The first stage contains 3 scripts written in R 3.3.1, ordered in the development of the research project. 
 
